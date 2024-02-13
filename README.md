@@ -15,7 +15,7 @@ This Django app demonstrates a simple "Hello World" application with two routes.
    If you have this project in a GitHub repository, provide the command to clone it. If not, the user needs to download the project files to their local machine.
 
    ```sh
-   git clone https://github.com/SyedAbbuTurab/DjangoHelloWorldApp
+   git clone https://github.com/SyedAbbuTurab/HelloWorldAppDjango
    cd myproject
    ```
 
